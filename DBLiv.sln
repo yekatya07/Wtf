@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBLiv", "DBLiv\DBLiv.csproj", "{49EB4C8C-DDD4-4030-B53A-45BC44B5D847}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParserProject", "ParserProject\ParserProject.csproj", "{078B704D-1426-458C-BD60-86B3976E050F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49EB4C8C-DDD4-4030-B53A-45BC44B5D847}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49EB4C8C-DDD4-4030-B53A-45BC44B5D847}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49EB4C8C-DDD4-4030-B53A-45BC44B5D847}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49EB4C8C-DDD4-4030-B53A-45BC44B5D847}.Release|Any CPU.Build.0 = Release|Any CPU
+		{078B704D-1426-458C-BD60-86B3976E050F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{078B704D-1426-458C-BD60-86B3976E050F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{078B704D-1426-458C-BD60-86B3976E050F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{078B704D-1426-458C-BD60-86B3976E050F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1355C69-1AC5-46E9-930B-1E163682093D}
+	EndGlobalSection
+EndGlobal
